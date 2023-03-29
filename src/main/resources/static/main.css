@@ -1,0 +1,10 @@
+#messages {
+    overflow: auto;
+    max-height: 300px;
+    list-style: none;
+}
+
+#messages li {
+    margin: 0;
+    padding-left: 25px;
+}
